@@ -1,0 +1,6 @@
+{
+  "name": "Silentium",
+  "description": "Personal E2E (X25519 + AES-256-GCM) secure messenger",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
